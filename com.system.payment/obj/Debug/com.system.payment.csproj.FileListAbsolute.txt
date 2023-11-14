@@ -1,0 +1,12 @@
+T:\CSharp\Education\com.system.payment\com.system.payment\bin\Debug\com.system.payment.exe.config
+T:\CSharp\Education\com.system.payment\com.system.payment\bin\Debug\com.system.payment.exe
+T:\CSharp\Education\com.system.payment\com.system.payment\bin\Debug\com.system.payment.pdb
+T:\CSharp\Education\com.system.payment\com.system.payment\obj\Debug\com.system.payment.csproj.AssemblyReference.cache
+T:\CSharp\Education\com.system.payment\com.system.payment\obj\Debug\com.system.payment.csproj.SuggestedBindingRedirects.cache
+T:\CSharp\Education\com.system.payment\com.system.payment\obj\Debug\com.system.payment.Properties.Resources.resources
+T:\CSharp\Education\com.system.payment\com.system.payment\obj\Debug\com.system.payment.csproj.GenerateResource.cache
+T:\CSharp\Education\com.system.payment\com.system.payment\obj\Debug\com.system.payment.csproj.CoreCompileInputs.cache
+T:\CSharp\Education\com.system.payment\com.system.payment\obj\Debug\com.system.payment.exe
+T:\CSharp\Education\com.system.payment\com.system.payment\obj\Debug\com.system.payment.pdb
+T:\CSharp\Education\com.system.payment\com.system.payment\obj\Debug\com.system.payment.Presentation.Forms.PaymentForm.resources
+T:\CSharp\Education\com.system.payment\com.system.payment\obj\Debug\com.system.payment.Presentation.Forms.PaymentSystemSelectorViewForm.resources
